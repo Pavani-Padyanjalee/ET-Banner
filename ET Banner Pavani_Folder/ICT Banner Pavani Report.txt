@@ -1,0 +1,61 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: ICT Banner Pavani.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 38 in x 32 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Bahnschrift Regular (OTF)
+Bahnschrift Bold (OTF)
+Berlin Sans FB Demi Bold (OTF)
+Acumin Variable Concept Bold (OTF)
+FMEmanee x (TrueType)
+FMSamantha x (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\ICT5\Desktop\Pavani ICT Banner\sir.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 6
+Size: 607K, 249 by 500 pixels
+Dimensions: 1153.783 by 2309.261 points 
+Resolution: 15.538 by 15.589 pixels per inch
+
+
+C:\Users\ICT5\Desktop\Pavani ICT Banner\aa.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1055K, 735 by 490 pixels
+Dimensions: 2736 by 2304 points 
+Resolution: 19.342 by 15.312 pixels per inch
